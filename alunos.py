@@ -2,7 +2,6 @@ import os
 from aluno import repository as aluno_repository
 
 
-alunos = []
 tamanho_da_tela = 100
 comando_limpar_tela = "clear"
 
